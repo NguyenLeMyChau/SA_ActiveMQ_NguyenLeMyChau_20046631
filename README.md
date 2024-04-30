@@ -20,12 +20,15 @@ Cho dù xác nhận hay hủy bỏ, hệ thống cũng sẽ gửi một email đ
 #### Config
 
 Config ActiveMQ:
+
 ![altText](images/configMQ.png)
 
 Config MariaDB:
+
 ![altText](images/configMariaDB.png)
 
 Config SendEmail:
+
 ![altText](images/configEmail.png)
 
 #### Queue
